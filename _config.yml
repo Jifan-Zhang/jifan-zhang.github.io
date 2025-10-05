@@ -118,7 +118,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "Jifan-zhang/jifan-zhang.github.io" # <gh-username>/<repo>
+    repo: "Jifan-Zhang/jifan-zhang.github.io" # <gh-username>/<repo>
     repo_id: "R_kgDOP80T9A"
     category: "Announcements"
     category_id: "DIC_kwDOP80T9M4CwSPw"
